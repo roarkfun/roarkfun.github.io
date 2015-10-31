@@ -4,12 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi. Today we live in the World full of social norms and social media. In the past decade people locked themselves in their own identity bubbles. I was one of them until it became clear that I lost my personal freedom, freedom to create without caring about what other people would think.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-Ping me on Twitter (@FirstRoark)
+Maybe some day Max Roark will take off his mask. For now that is just a character. 
+A character with his own ambitions.
